@@ -1,0 +1,5 @@
+#cal
+The cal utility displays a simple calendar in traditional format
+and ncal offers an alternative layout, more options and the date of Easter. 
+The new format is a little cramped but it makes a year fit on a 25x80 terminal.
+If arguments are not specified, the current month is displayed.
