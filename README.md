@@ -5,7 +5,7 @@ main xmpl repository of Linux commands usage
 ## Installation
 XMPL repository is structured in a way that allows searching through examples based on packet's name 
 and the content of examples.
-Inside the starting folder "xmpl-repo" there are folders named after available packets.
+Inside the starting folder "/commands" there are folders named after available packets.
 Inside each packet, there is a descriptive file named "packet's_name.desc", which contains
 description of the packet's purpose, with keywords for searching in the comments.
 Finally, there are .xmpl files named after the examples. Content of .xmpl files is an example of command
