@@ -1,0 +1,3 @@
+#test the reachability of a host on network 
+#ping hostname address remote computer
+ping {:host:}
