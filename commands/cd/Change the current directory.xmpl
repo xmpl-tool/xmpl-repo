@@ -1,0 +1,2 @@
+#change the current directory
+cd {:directory name:}
