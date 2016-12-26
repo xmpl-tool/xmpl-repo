@@ -1,0 +1,2 @@
+#View an existing tar archive
+tar tvf {:archive name:}
