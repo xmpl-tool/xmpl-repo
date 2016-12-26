@@ -1,0 +1,4 @@
+#last
+Displays a list of all users logged in (and out) since /var/log/wtmp was created.  
+Names of users and tty's can be given, in which case last will show only those entries matching the arguments. 
+Names  of  ttys  can  be abbreviated, thus last 0 is the same as last tty0
