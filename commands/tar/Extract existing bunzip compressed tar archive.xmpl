@@ -1,0 +1,3 @@
+#extract existing bunzip compressed tar archive (.tar.bz)
+#bzip bz2 compression
+tar xvfj {:archive name:}
