@@ -1,0 +1,3 @@
+#extract existing tar archive
+#default tarball
+tar xvf {:archive name:}
