@@ -1,0 +1,3 @@
+#display who is online on machine
+#system active sessions session tty
+w
