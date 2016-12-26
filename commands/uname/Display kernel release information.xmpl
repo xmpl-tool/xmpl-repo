@@ -1,0 +1,3 @@
+#display kernel release information
+#system
+uname -r
