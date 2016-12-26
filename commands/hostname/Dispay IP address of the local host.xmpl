@@ -1,0 +1,3 @@
+#dipslay ip address of the local host
+#show get
+hostname -i
