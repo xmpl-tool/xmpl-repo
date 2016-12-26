@@ -1,0 +1,5 @@
+#hostname
+This command can get or set the host name or the NIS domain name for local computer.
+You can also get the DNS domain or the FQDN (fully qualified domain name).
+Unless you are using bind or NIS for host lookups you can change the FQDN (Fully Qualified Domain Name)
+and the DNS domain name (which is part of the FQDN) in the /etc/hosts file.
