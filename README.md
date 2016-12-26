@@ -1,5 +1,5 @@
 
-#main xmpl repository
+#xmpl repository
 ## Installation
 XMPL repository is structured in a way that allows searching through examples based on packet's name 
 and the content of examples.
