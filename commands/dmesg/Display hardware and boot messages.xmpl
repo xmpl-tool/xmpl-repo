@@ -1,0 +1,2 @@
+#display hardware and boot messages
+dmesg
