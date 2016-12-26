@@ -1,0 +1,4 @@
+#dmesg
+display message or driver message
+dmesg is a command on most Unix-like operating systems that prints the message buffer of the kernel.
+The output of this command typically contains the messages produced by the device drivers.
