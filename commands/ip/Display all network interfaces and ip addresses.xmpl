@@ -1,0 +1,3 @@
+#display all network interfaces and ip addresses 
+#ip network interface setup
+ip addr show
