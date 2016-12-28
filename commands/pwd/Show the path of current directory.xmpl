@@ -1,0 +1,3 @@
+#Show the path of current directory.xmpl
+#display get
+pwd
