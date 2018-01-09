@@ -1,0 +1,3 @@
+#Eject the default device
+#cdrom open tray cd drive
+eject
