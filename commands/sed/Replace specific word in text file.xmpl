@@ -1,0 +1,3 @@
+#replace specific word in text file
+#search replace text word pattern match all
+sed 's/{:search:}/{:replace:}/g' {:file:}
