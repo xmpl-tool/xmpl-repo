@@ -1,0 +1,3 @@
+#delete all blank lines from a file
+#delete blank line lines space remove 
+sed '/./!d' {:file:}

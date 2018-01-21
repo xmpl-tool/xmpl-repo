@@ -1,0 +1,3 @@
+#delete lines matching pattern
+#delete line in text file by match remove
+sed '/{:pattern:}/d' {:file:}
