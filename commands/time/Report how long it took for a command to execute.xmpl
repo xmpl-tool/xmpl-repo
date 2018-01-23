@@ -1,0 +1,3 @@
+#report how long it took for a command to execute
+#timer
+time {:command:}
