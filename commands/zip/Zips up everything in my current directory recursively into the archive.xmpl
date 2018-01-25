@@ -1,0 +1,3 @@
+#zips up everything in my current directory recursively into the archive
+#zip current folder archive compress
+zip -r {:archive name:} *
