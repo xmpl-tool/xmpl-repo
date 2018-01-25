@@ -1,0 +1,3 @@
+#download entire website
+#mirror all files from web server domain
+wget --mirror --random-wait --no-cache --convert-links --adjust-extension --page-requisites --no-host-directories -e robots=off --user-agent=mozilla {:website:}
