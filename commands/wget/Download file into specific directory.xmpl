@@ -1,0 +1,3 @@
+#download file into specific directory
+#save prefix location local path
+wget -P {:destination directory:} {:remote file:}
