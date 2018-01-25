@@ -1,0 +1,3 @@
+#gets the headers for a given web page
+#get header url server
+curl -I {:web page:}

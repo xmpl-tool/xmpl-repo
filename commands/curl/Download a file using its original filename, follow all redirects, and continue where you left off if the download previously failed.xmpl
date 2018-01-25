@@ -1,0 +1,3 @@
+#download a file using its original filename, follow all redirects, and continue where you left off if the download previously failed
+#save local resume 
+curl -LOC - {:file URL:}

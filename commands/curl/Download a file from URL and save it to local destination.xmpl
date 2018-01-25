@@ -1,0 +1,3 @@
+#download a file from url and save it to local destination
+#get web page contetn
+curl -o {:local file:} {:URL:}

@@ -1,0 +1,3 @@
+#get the contents of a web page
+#html website site server request
+curl {:web page:}
