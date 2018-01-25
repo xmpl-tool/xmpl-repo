@@ -1,0 +1,3 @@
+#download a file from a webserver and save to hard drive
+#web server local
+wget {:remote file:}
