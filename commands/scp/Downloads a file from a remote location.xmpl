@@ -1,0 +1,3 @@
+#downloads a file from a remote location
+#copy ssh host network
+scp {:remote user:}@{:remote host:}:{:remote path:} {:local path:}

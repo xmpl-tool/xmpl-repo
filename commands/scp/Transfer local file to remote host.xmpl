@@ -1,0 +1,3 @@
+#transfer local file to remote host
+#upload files server network copy ssh
+scp {:local file:} {:remote user:}@{:remote host:}:{:remote path:}
