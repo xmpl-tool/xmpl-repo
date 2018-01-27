@@ -1,0 +1,3 @@
+#display supported encoders.
+#convert audio video encoders codecs
+ffmpeg -encoders
