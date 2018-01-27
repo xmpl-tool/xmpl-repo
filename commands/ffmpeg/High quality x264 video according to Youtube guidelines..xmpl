@@ -1,0 +1,3 @@
+#high quality x264 video according to youtube guidelines.
+#youtube video convert
+ffmpeg -i {:input.file:} -c:v h264 -crf 18 -g 12 -bf 2 -preset fast -movflags +faststart {:outputfile.mp4:}
