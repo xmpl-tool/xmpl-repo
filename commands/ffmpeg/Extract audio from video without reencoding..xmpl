@@ -1,0 +1,3 @@
+#extract audio from video without reencoding.
+#extract audio video convert
+ffmpeg -i {:input.ext:} -vn -c:a copy {:output.ext - Keep in mind that the extension needs to match the input file audio format:}
