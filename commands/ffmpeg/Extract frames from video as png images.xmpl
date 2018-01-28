@@ -1,0 +1,3 @@
+#extract frames from video as png images
+#video videos frame frames convert conversion
+ffmpeg -i {:input.ext:} frame%4d.png
