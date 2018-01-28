@@ -1,0 +1,3 @@
+#play video of desired size from random data.
+#play random video
+ffplay -f rawvideo -s {:widthxheight:} /dev/urandom
