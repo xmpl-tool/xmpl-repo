@@ -1,0 +1,3 @@
+#resynchronize the package index files from their repository sources specified in /etc/apt/sources.list file.
+#apt update sync synchronize package index files repository source
+apt update

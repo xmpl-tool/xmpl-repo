@@ -1,0 +1,3 @@
+#install multiple packages
+#install multiple package
+sudo apt install {:package1:} {:package2:}
