@@ -1,0 +1,3 @@
+#generate a new private key and certificate signing request
+#generate private key certificate signing request
+openssl req -out {:csrequest:}.csr -new -newkey rsa:2048 -nodes -keyout {:privateKey:}.key

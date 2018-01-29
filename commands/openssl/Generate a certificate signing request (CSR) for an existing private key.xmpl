@@ -1,0 +1,3 @@
+#generate a certificate signing request (csr) for an existing private key
+#generate certificate signing request csr existing private key
+openssl req -out {:csrequest:}.csr -key {:privateKey:}.key -new
