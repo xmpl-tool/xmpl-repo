@@ -1,4 +1,3 @@
 #create video from directory of images
 #video images batch 
-ffmpeg -i {:%5d.ext - %5d means 5 digits - filenames need to be eg. 00001.png 00002.png etc:} -c:v 
-h264 -q:v 0 {:output.ext:}
+ffmpeg -i {:images (%5d.png) - %5d means 5 digits - filenames need to be eg. 00001.png 00002.png etc:} -c:v h264 -q:v 0 {:output video:}
