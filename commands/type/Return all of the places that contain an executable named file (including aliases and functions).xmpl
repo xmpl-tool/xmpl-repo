@@ -1,0 +1,3 @@
+#return all of the places that contain an executable named file (including aliases and functions)
+#where package is installed location program system
+type -a {:command name:}
