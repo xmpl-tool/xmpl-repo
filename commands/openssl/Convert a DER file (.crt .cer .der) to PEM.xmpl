@@ -1,3 +1,3 @@
 #convert a der file (.crt .cer .der) to pem
 #convert crt cer der pem
-openssl x509 -inform der -in {:certificate:}.cer -out {:certificate:}.pem
+openssl x509 -inform der -in {:input certificate(.crt .cer .der):} -out {:output certificate(.pem):}
