@@ -1,2 +1,3 @@
 #show system hostname
+#hostname local my
 hostname
