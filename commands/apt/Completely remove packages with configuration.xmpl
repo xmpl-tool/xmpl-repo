@@ -1,0 +1,3 @@
+#completely remove packages with configuration
+#apt completely remove purge package configuration
+apt purge {:package:}

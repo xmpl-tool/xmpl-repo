@@ -1,0 +1,3 @@
+#automatically clean apt cache
+#auto automatically clead delete
+apt autoclean
