@@ -1,0 +1,3 @@
+#display all interfaces which are currently available, even if down.
+#status ethernet interface 
+ifconfig -a
