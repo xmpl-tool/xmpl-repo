@@ -1,0 +1,3 @@
+#install or upgrade specific packages
+#apt install new package
+apt-get install {:packagename:}
