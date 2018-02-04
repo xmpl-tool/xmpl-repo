@@ -1,0 +1,3 @@
+#delete all lines from file that do not contain a specific text
+#word string text remove match matching
+sed '/{:pattern:}/!d' {:file:}
