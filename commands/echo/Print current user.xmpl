@@ -1,0 +1,3 @@
+#print current user
+#bash variable username login
+echo $USER
