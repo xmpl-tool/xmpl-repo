@@ -1,0 +1,4 @@
+#resynchronize the package index files from their repository sources on debian based distributions
+#apt update sync synchronize repo source ubuntu mint package manager
+#may need root permissions
+apt-get update
