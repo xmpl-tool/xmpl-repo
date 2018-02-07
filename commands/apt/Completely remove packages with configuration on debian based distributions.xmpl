@@ -1,4 +1,0 @@
-#completely remove packages with configuration on debian based distributions
-#apt completely remove purge package configuration ubuntu mint package manager
-#may need root permissions
-apt-get purge {:package/s:}
