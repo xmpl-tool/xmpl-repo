@@ -1,0 +1,4 @@
+#install or upgrade specific packages on debian based distributions
+#apt install new software ubuntu mint package manager
+#may need root permissions
+apt-get install {:packagename:}
