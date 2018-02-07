@@ -1,3 +1,0 @@
-#remove packages without configuration
-#apt remove package
-apt remove {:package:}
