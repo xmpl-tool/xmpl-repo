@@ -1,0 +1,3 @@
+#print my message on screen
+#write text line 
+echo {:message:}

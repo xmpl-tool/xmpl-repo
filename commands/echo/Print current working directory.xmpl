@@ -1,0 +1,3 @@
+#print current working directory
+#pwd show display my location variable
+echo $PWD
