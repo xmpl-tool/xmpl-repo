@@ -1,0 +1,4 @@
+#delete downloaded .deb packages from the local repository on debian based distibutions
+#delete clean downloaded deb package local repository repo ubuntu mint
+#may need root permissions
+apt-get clean

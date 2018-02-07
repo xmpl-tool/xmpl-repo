@@ -1,3 +1,0 @@
-#delete downloaded .deb packages from the local repository
-#delete clean downloaded deb package local repository repo
-apt clean
