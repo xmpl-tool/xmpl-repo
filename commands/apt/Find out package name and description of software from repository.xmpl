@@ -1,3 +1,0 @@
-#find out package name and description of software from repository
-#apt package search description info software repository
-apt-cache search {:package:}

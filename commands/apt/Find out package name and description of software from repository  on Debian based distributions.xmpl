@@ -1,0 +1,3 @@
+#find out package name and description of software from repository on debian based distributions
+#apt package search description info software repository ubuntu mint package manager
+apt-cache search {:package:}
