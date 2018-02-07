@@ -1,3 +1,0 @@
-#install multiple packages
-#install multiple package
-apt install {:package1:} {:package2:}
