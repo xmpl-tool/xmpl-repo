@@ -1,3 +1,4 @@
-#automatically clean apt cache
-#auto automatically clead delete
-apt autoclean
+#automatically clean apt cache on debian based distributions
+#auto automatically delete debian ubuntu mint package manager
+#may need root permissions
+apt-get autoclean
