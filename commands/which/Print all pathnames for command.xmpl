@@ -1,0 +1,3 @@
+#print all pathnames for command
+#paths locations executable file package 
+which -a {:command name:}

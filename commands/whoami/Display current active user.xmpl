@@ -1,2 +1,3 @@
 #display current active user
+#who am i is logged in as
 whoami

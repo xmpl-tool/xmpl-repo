@@ -1,2 +1,3 @@
 #display system information
+#name os info
 uname -a
