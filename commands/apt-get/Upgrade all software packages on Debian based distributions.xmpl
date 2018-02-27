@@ -1,0 +1,4 @@
+#upgrade all software packages on debian based distributions
+#apt upgrade all softwares package manager ubuntu mint new version
+#may need root permissions
+apt-get upgrade
