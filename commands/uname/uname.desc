@@ -1,3 +1,3 @@
 #uname
-uname (short for unix name) prints the name, version and other details about the current machine and the operating system running on it. 
+Prints the name, version and other details about the current machine and the operating system running on it. 
 The uname system call and command appeared for the first time in PWB/UNIX. Both are specified by POSIX.

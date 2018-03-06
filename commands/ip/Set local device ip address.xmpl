@@ -1,3 +1,3 @@
 #set local device ip address
-#ip network interface setup
+#ip network interface setup change my
 ip address add {:address:} dev {:device name:}

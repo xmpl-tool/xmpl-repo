@@ -1,2 +1,2 @@
 #which
-returns the pathnames of the files (or links) which would be executed in the current environment
+Returns the pathnames of the files (or links) which would be executed in the current environment
