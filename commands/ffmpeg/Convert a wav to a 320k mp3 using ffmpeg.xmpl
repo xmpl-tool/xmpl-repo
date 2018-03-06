@@ -1,0 +1,3 @@
+#convert a wav to a 320k mp3 using ffmpeg
+#encode song kbps from track
+ffmpeg -i {:input file (wav):} -ab 320k {:output file (mp3):}
