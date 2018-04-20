@@ -1,0 +1,3 @@
+#basic dns lookup
+#query record records type dns name server ip address remote information get show display
+dig {:public domain:}
