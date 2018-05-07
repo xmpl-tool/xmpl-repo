@@ -1,0 +1,3 @@
+#trace dns path
+#lookup nameservers name servers records show display get
+dig {:remote host:} +trace
