@@ -1,0 +1,3 @@
+#reverse dns lookup
+#get display show find nameserver form ip address remote public
+dig -x {:ip address:}

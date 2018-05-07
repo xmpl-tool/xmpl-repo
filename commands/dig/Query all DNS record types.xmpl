@@ -1,0 +1,3 @@
+#query all dns record types
+#domain records available get show display find nameserver name server record type
+dig {:remote host:} ANY
