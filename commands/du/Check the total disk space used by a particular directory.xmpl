@@ -1,0 +1,3 @@
+#check the total disk space used by a particular directory
+#find get show display usage size folder current dir
+du -sh {:directory:}

@@ -1,0 +1,3 @@
+#display the disk usage of the directories along with its sub-directories
+#show find space folder folders subfolders subdirecotries directory size get dir
+du -h {:directory:}

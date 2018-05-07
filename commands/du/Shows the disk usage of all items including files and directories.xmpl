@@ -1,0 +1,3 @@
+#shows the disk usage of all items including files and directories
+#find display space file size directory folder folders show get dir
+du -ah {:directory:}

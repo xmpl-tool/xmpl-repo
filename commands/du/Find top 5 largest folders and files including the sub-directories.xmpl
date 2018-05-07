@@ -1,0 +1,3 @@
+#find top 5 largest folders and files including the sub-directories
+#search get display show most subdirectories
+du -Sh {:directory:} | sort -rh | head -5

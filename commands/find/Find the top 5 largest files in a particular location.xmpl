@@ -1,0 +1,3 @@
+#find the top 5 largest files in a particular location
+#display show get most
+find {:location:} -type f -exec du -Sh {} + | sort -rh | head -n 5
