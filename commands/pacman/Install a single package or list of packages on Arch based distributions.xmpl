@@ -1,4 +1,4 @@
 #install a single package or list of packages on arch based distributions
-#package manager new software manjaro linux aur
+#package manager new software manjaro linux
 #may need root permissions
 pacman -S {::packages::}
