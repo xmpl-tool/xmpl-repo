@@ -1,0 +1,3 @@
+#opens up the manual page for the specific command
+#help documentation show pages usage how to use
+man {:command:}
