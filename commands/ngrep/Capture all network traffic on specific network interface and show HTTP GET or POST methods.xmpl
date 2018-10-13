@@ -1,0 +1,3 @@
+#capture all network traffic on specific network interface and show http get or post methods
+#request requests website web protocol grep
+ngrep -l -q -d {:network interface:} -i "^GET |^POST " tcp and port 80
