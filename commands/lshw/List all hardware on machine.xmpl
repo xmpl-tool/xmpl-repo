@@ -1,3 +1,3 @@
 #list all hardware on machine
-#show devices on computer configuratuin display my
+#show devices on computer configuration display my
 lshw
