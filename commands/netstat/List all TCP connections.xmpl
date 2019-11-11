@@ -1,0 +1,3 @@
+#list all tcp connections
+#show display open active ports
+netstat -at
