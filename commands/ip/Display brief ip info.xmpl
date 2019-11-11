@@ -1,0 +1,3 @@
+#display brief ip info
+#show address print my addresses 
+ip -br addr
