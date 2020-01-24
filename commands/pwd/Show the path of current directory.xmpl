@@ -1,3 +1,3 @@
-#Show the path of current directory.xmpl
-#display get
+#show the path of current directory
+#display get folder system location working
 pwd
