@@ -1,0 +1,3 @@
+#displays system wide information regarding the docker installation
+#view show setup version ram cpu registry kernel os status
+docker info
