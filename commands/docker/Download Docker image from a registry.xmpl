@@ -1,0 +1,3 @@
+#download docker image from a registry
+#get repository container hub library
+docker pull {:image name:}
