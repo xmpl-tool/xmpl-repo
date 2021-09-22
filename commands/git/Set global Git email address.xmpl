@@ -1,0 +1,3 @@
+#set global git email address
+#change modify identity
+git config --global user.email {:email:}
